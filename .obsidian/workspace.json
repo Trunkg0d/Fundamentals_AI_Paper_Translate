@@ -27,9 +27,11 @@
             "id": "685b2430cba9d390",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Translate_paper/Trung/images/1.png"
+                "file": "Translate_paper/Final/Final_translate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Translate_paper/Trung/images/1.png",
+                "file": "Translate_paper/Final/Final_translate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Translate_paper/Trung/images/1.png",
+                "file": "Translate_paper/Final/Final_translate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Translate_paper/Trung/images/1.png"
+                "file": "Translate_paper/Final/Final_translate.md"
               }
             }
           }
@@ -160,13 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "627e41819e8072fc",
+  "active": "685b2430cba9d390",
   "lastOpenFiles": [
-    "Translate_paper/Tan/Trunk_Translate.md",
+    "Translate_paper/Trung/images/1.png",
+    "Translate_paper/Final/Final_translate.md",
+    "Translate_paper/Tan/Tan_Translate.md",
     "Translate_paper/Tan/images/1.png",
     "Translate_paper/Trung/Trunk_Translate.md",
     "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf",
-    "Translate_paper/Trung/images/1.png",
     "Translate_paper/Trung/images/Screenshot 2023-10-02 203821.png",
     "Translate_paper/Trung/images",
     "Translate_paper/Tan/images",
