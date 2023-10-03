@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "7a28d1745a1544cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e19acf7d20f09faf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb3d27b379207c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9bf96d54f1e37262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685b2430cba9d390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Translate_paper/Trung/Trunk_Translate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12c1b877dd959869",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e85162c31f0f021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627e41819e8072fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b81a1e1db196fa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de8389dfd00a1939",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b05f64e81c6d0a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b902d56526e2cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53bad83af96e02b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Translate_paper/Trung/Trunk_Translate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7a6b2f4bbb2ab87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Translate_paper/Trung/Trunk_Translate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26ca57140d5a3bc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac0113e6effd4700",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Translate_paper/Trung/Trunk_Translate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "685b2430cba9d390",
+  "lastOpenFiles": [
+    "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf",
+    "Translate_paper/Trung/Trunk_Translate.md",
+    "Translate_paper/Trung/images/1.png",
+    "Translate_paper/Trung/images/Screenshot 2023-10-02 203821.png",
+    "Translate_paper/Trung/images",
+    "Translate_paper/Tan/images",
+    "Translate_paper/Final",
+    "Translate_paper/Trung/asdjfahsdjfk.md",
+    "Translate_paper/Tan",
+    "Translate_paper/Trung",
+    "Untitled"
+  ]
+}
