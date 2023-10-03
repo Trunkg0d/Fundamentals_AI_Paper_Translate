@@ -27,11 +27,9 @@
             "id": "685b2430cba9d390",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Translate_paper/Trung/Trunk_Translate.md",
-                "mode": "source",
-                "source": false
+                "file": "Translate_paper/Trung/images/1.png"
               }
             }
           }
@@ -85,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b05f64e81c6d0a3c",
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Translate_paper/Trung/Trunk_Translate.md",
+                "file": "Translate_paper/Trung/images/1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Translate_paper/Trung/Trunk_Translate.md",
+                "file": "Translate_paper/Trung/images/1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Translate_paper/Trung/Trunk_Translate.md"
+                "file": "Translate_paper/Trung/images/1.png"
               }
             }
           }
@@ -163,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "685b2430cba9d390",
+  "active": "627e41819e8072fc",
   "lastOpenFiles": [
-    "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf",
+    "Translate_paper/Tan/Trunk_Translate.md",
+    "Translate_paper/Tan/images/1.png",
     "Translate_paper/Trung/Trunk_Translate.md",
+    "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf",
     "Translate_paper/Trung/images/1.png",
     "Translate_paper/Trung/images/Screenshot 2023-10-02 203821.png",
     "Translate_paper/Trung/images",
