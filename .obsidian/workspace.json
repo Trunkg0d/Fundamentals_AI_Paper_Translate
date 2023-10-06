@@ -11,27 +11,27 @@
             "id": "f98ff31a5b8913d5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf"
+                "file": "Translate_paper/Trung/Trunk_Translate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "a9e431cc7934c592",
+        "id": "8a40dabc54ef4858",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb3d27b379207c2",
+            "id": "f3632db37f10dbab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Translate_paper/Trung/Trunk_Translate.md",
-                "mode": "source",
-                "source": false
+                "file": "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf"
               }
             }
           }
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bb3d27b379207c2",
+  "active": "f98ff31a5b8913d5",
   "lastOpenFiles": [
     "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf",
     "Translate_paper/Trung/Trunk_Translate.md",
