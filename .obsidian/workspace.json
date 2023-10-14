@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e19acf7d20f09faf",
+        "id": "e0166342fd47387f",
         "type": "tabs",
         "children": [
           {
-            "id": "f98ff31a5b8913d5",
+            "id": "3a854e82b107e532",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,22 +16,6 @@
                 "file": "Translate_paper/Tan/Tan_Translate.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8a40dabc54ef4858",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3632db37f10dbab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf"
               }
             }
           }
@@ -162,15 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f98ff31a5b8913d5",
+  "active": "627e41819e8072fc",
   "lastOpenFiles": [
-    "Translate_paper/Trung/Trunk_Translate.md",
+    "Translate_paper/Tan/images/10.png",
+    "Translate_paper/Tan/images/9.png",
+    "Translate_paper/Tan/images/7.png",
     "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf",
-    "Translate_paper/Final/Final_translate.md",
-    "Translate_paper/Trung/images/1.png",
+    "Translate_paper/Tan/images/6.png",
     "Translate_paper/Tan/Tan_Translate.md",
-    "Translate_paper/Tan/images/1.png",
-    "Translate_paper/Trung/images/Screenshot 2023-10-02 203821.png",
+    "Translate_paper/Tan/images/8.png",
+    "Translate_paper/Tan/images/5.png",
+    "Translate_paper/Tan/images/4.png",
+    "Translate_paper/Tan/images/3.png",
+    "Pasted image 20231014175700.png",
+    "Pasted image 20231014175252.png",
+    "Translate_paper/Tan/images/2.png",
+    "Translate_paper/Trung/Trunk_Translate.md",
+    "Translate_paper/Final/Final_translate.md",
     "Translate_paper/Trung/images",
     "Translate_paper/Tan/images",
     "Translate_paper/Final",
