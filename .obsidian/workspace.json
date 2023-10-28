@@ -1,14 +1,22 @@
 {
   "main": {
-    "id": "7a28d1745a1544cf",
+    "id": "7d7533ba7dcc39a6",
     "type": "split",
     "children": [
       {
-        "id": "e19acf7d20f09faf",
+        "id": "39f6b1b8b2c58f62",
         "type": "tabs",
         "children": [
           {
-            "id": "f98ff31a5b8913d5",
+            "id": "9741e08c2ada6ee3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e7d2f3a8582b4cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,37 +27,22 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "8a40dabc54ef4858",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3632db37f10dbab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "12c1b877dd959869",
+    "id": "c111a936d78d926a",
     "type": "split",
     "children": [
       {
-        "id": "1e85162c31f0f021",
+        "id": "500644493be066c9",
         "type": "tabs",
         "children": [
           {
-            "id": "627e41819e8072fc",
+            "id": "de7c85b6251d95ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +52,7 @@
             }
           },
           {
-            "id": "8b81a1e1db196fa4",
+            "id": "ec734dbc9a2b81d3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +67,7 @@
             }
           },
           {
-            "id": "de8389dfd00a1939",
+            "id": "340a0e01498412ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,15 +82,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "b05f64e81c6d0a3c",
+    "id": "d5e9ab37b10b0a7f",
     "type": "split",
     "children": [
       {
-        "id": "44b902d56526e2cc",
+        "id": "72286eb154cd411a",
         "type": "tabs",
         "children": [
           {
-            "id": "c53bad83af96e02b",
+            "id": "466a38109f806f9b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -114,7 +107,7 @@
             }
           },
           {
-            "id": "e7a6b2f4bbb2ab87",
+            "id": "80589559a883e1e8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -126,7 +119,7 @@
             }
           },
           {
-            "id": "26ca57140d5a3bc4",
+            "id": "d05695488be78839",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +130,7 @@
             }
           },
           {
-            "id": "ac0113e6effd4700",
+            "id": "2c688e69e9939d72",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -163,6 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+  "active": "0e7d2f3a8582b4cc",
+  "lastOpenFiles": []
+=======
   "active": "f98ff31a5b8913d5",
   "lastOpenFiles": [
     "Translate_paper/Multimodal Classification_Current Landscape, Taxonomy and Future Directions.pdf",
@@ -181,4 +178,5 @@
     "Translate_paper/Trung",
     "Untitled"
   ]
+>>>>>>> c42af219102f2988fa228959634f1b4d632542a7
 }
